@@ -1,0 +1,53 @@
+GHCi, version 8.4.3: http://www.haskell.org/ghc/  :? for help
+[1 of 1] Compiling Asst1            ( Asst1.hs, interpreted )
+Ok, one module loaded.
+*Asst1> *Asst1> -122
+*Asst1> 0
+*Asst1> 1
+*Asst1> 4
+*Asst1> 13
+*Asst1> 0.5
+*Asst1> *Asst1> *Asst1> 0
+*Asst1> 0
+*Asst1> 0
+*Asst1> *Asst1> *Asst1> 8
+*Asst1> -8
+*Asst1> 8
+*Asst1> *Asst1> *Asst1> 20
+*Asst1> 5
+*Asst1> *Asst1> *Asst1> 1
+*Asst1> 3
+*Asst1> 0
+*Asst1> *Asst1> *Asst1> 0
+*Asst1> 6
+*Asst1> -5
+*Asst1> *Asst1> *Asst1> "Hi "
+*Asst1> "Hi Athena"
+*Asst1> "Hi Name"
+*Asst1> *Asst1> *Asst1> "Hi Athena"
+*Asst1> "Hi there"
+*Asst1> *Asst1> *Asst1> "aaa"
+*Asst1> *Asst1> *Asst1> "aaaaaa"
+*Asst1> *Asst1> *Asst1> "5 4 3 2 1 "
+*Asst1> "Too low"
+*Asst1> *Asst1> *Asst1> "1 2 3 4 5 "
+*Asst1> "1 "
+*Asst1> *Asst1> *Asst1> 10
+*Asst1> -15
+*Asst1> *Asst1> *Asst1> True
+*Asst1> False
+*Asst1> True
+*Asst1> *Asst1> *Asst1> True
+*Asst1> True
+*Asst1> False
+*Asst1> True
+*Asst1> True
+*Asst1> True
+*Asst1> False
+*Asst1> *Asst1> *Asst1> False
+*Asst1> False
+*Asst1> True
+*Asst1> True
+*Asst1> False
+*Asst1> False
+*Asst1> Leaving GHCi.

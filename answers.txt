@@ -1,0 +1,34 @@
+Name: <Caroline shen>
+File: answers.txt
+Desc: CS245, Assignment 1
+
+22. The authors closely associate the Lisp language with the lambda calculus.
+
+23. For example, in a 16-bit computer, the number 55 is an abstraction of the
+    16-bit number 0000000000110111.
+
+24. An abstract data type is a set of data values and the real operations on
+    those values that are hidden from the users. We want this because we want
+    the users to use some of the features of our program without changing the
+    contents in those features.
+    In java, it is like to define a class that has some public functions and
+    also some private data and functions.
+
+25. Syntactic sugar is a mechanism that allows users to replace a complex
+    notation with a simpler and shorter notion. One example of syntactic sugar
+    I know of is the short hand i++, which stands for i = i + 1. This becomes
+    really handy when used in a loop in java.
+
+26. The function map is very much similar to the mathematical definition of
+    a map, which applies certain function to a list of items and return a list
+    of the resulting answers. Therefore, for each item in the first list, there
+    is a map to a certain item in the second list.
+
+27. In java, for an for loop, if we write:
+       for (int i = 1, i < 3, i++)
+    there would be a syntax error. We are supposed to put semicolon between
+    statements, but instead we have coma.
+
+28. An interpreter is a translator that can execute a program directly, while
+    a compiler is a translator that would produce a suitable form for
+    execution.

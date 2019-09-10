@@ -1,0 +1,80 @@
+-- #3
+add1 (-123) -- -122
+add1 (-1) -- 0
+add1 0   -- 1
+add1 3   -- 4
+add1 12 -- 13
+add1 (-0.5) -- 0.5
+
+-- #4
+always0 10     -- 0
+always0 (-2)   -- 0
+always0 0 -- 0
+
+-- #5
+sub 10 2    -- 8
+sub 2 10    -- -8
+sub (-3) (-11) -- 8
+
+-- #6
+addmult 2 3 4     -- 20
+addmult 2 (-1) 5  -- 5
+
+-- #9
+myAbs 1     -- 1
+myAbs (-3)  -- 3
+myAbs 0 -- 0
+
+-- #10
+pushOut 0    -- 0
+pushOut 5    -- 6
+pushOut (-4) -- -5
+
+-- #11
+greet "" -- "Hi "
+greet "Athena"   -- "Hi Athena"
+greet "Name" -- "Hi Name"
+
+-- #12
+greet2 "Athena"   -- "Hi Athena"
+greet2 ""        -- "Hi there"
+
+-- #13
+makeAs 3   -- "aaa"
+
+-- #14
+twiceAs 3  -- "aaaaaa"
+
+-- #15
+countDown 5    -- "5 4 3 2 1 "
+countDown 0    -- "Too low"
+
+-- #16
+countUp 5   -- "1 2 3 4 5 "
+countUp 1   -- "1 "
+
+-- #17
+triangle 4   -- 10
+triangle (-5) -- -15
+
+-- #18
+divides 3 9   -- True
+divides 2 13  -- False
+divides (-5) 10 -- True
+
+-- #19
+hasNoDivisorsLessThan 12 1 -- True
+hasNoDivisorsLessThan 49 5  -- True
+hasNoDivisorsLessThan 49 8  -- False
+hasNoDivisorsLessThan 49 7 -- True
+hasNoDivisorsLessThan (-4) (-2) -- True
+hasNoDivisorsLessThan 2 2 -- True
+hasNoDivisorsLessThan 4 4 -- False
+
+-- #20
+isPrime (-12) -- False
+isPrime 0 -- False
+isPrime 2 -- True
+isPrime 13   -- True
+isPrime 15   -- False
+isPrime (-2) -- False
